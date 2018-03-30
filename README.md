@@ -1,2 +1,2 @@
-# MWGC
+# MWGC Problem Statement
 A man, a wolf, a goat, and a cabbage are all on one bank of a wide river. The man wishes to take himself and the three others across to the opposite side.  The constraint is that there is only room in the boat for the man and at most one of the three others.  The wolf and goat can't be left alone.  The goat and the cabbage can't be left alone.  The problem is to devise a plan to get all 4 to the other side
